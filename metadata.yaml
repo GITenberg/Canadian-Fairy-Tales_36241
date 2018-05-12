@@ -1,0 +1,52 @@
+_repo: Canadian-Fairy-Tales_36241
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Hibben, John Grier
+    birthdate: 1861
+    deathdate: 1933
+    gutenberg_agent_id: '38962'
+    url: http://www.gutenberg.org/2009/agents/38962
+  illustrator:
+    agent_name: Foster, Marcia Lane
+    gutenberg_agent_id: '36901'
+    url: http://www.gutenberg.org/2009/agents/36901
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacMillan, Cyrus
+    alias: Macmillan, Cyrus
+    birthdate: 1880
+    deathdate: 1953
+    gutenberg_agent_id: '33225'
+    url: http://www.gutenberg.org/2009/agents/33225
+description: ''
+gutenberg_issued: '2011-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Folklore -- Canada'
+- !lcc 'GR'
+- !lcsh 'Fairy tales -- Canada'
+- !lcsh 'Indians of North America -- Canada -- Folklore'
+tableOfContents: How Glooskap made the birds -- Rabbit and the grain buyers -- Saint
+  Nicholas and the children -- The fall of the Spider Man -- The boy who was called
+  Thick-Head -- Rabbit and the Indian Chief -- Great Heart and the three tests --
+  The boy of the red twilight sky -- How Raven brought fire to the Indians -- The
+  girl who always cried -- Ermine and the hunter -- How Rabbit deceived Fox -- The
+  boy and the dragon -- Owl with the great head and eyes -- The tobacco fairy from
+  the blue hills -- Rainbow and the autumn leaves -- Rabbit and the Moon-Man -- The
+  children with one eye -- The giant with the grey feathers -- The cruel stepmother
+  -- The boy who was saved by thoughts -- The song-bird and the healing waters --
+  The boy who overcame the giants -- The youth and the Dog-Dance -- Sparrow's search
+  for the rain -- The boy in the Land of Shadows.
+title: Canadian Fairy Tales
+url: http://www.gutenberg.org/ebooks/36241
